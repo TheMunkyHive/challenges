@@ -15,5 +15,6 @@ Adding ssh-key authentification
 1. Github => Settings => Add SSH Public Key
 
 Learned that github doesnt support 4096 bit rsa keys!
+Added the public ecdsa key to githubs website
 
 Trying to figure out pull requests
