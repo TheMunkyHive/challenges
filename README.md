@@ -14,3 +14,4 @@ Adding ssh-key authentification
 
 1. Github => Settings => Add SSH Public Key
 
+Trying to figure out pull requests
