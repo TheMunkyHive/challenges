@@ -20,5 +20,9 @@ Added the public ecdsa key to githubs website
 
 Trying to figure out pull requests
 
-A long and difficult road lies ahead
+*A long and difficult road lies ahead*
+
+===
+
+Finished the 'Git Beginners Guide'
 
