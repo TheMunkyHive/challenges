@@ -1,6 +1,6 @@
 # Git & Github Beginner Challenge #1
 
-### Prerequisites:
+### Requirements:
 
 - Your submission must be composed in markdown
 - You have to make extensive use of the markdown
