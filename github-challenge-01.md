@@ -1,4 +1,4 @@
-# Github Challenge #1
+# Git & Github Beginner Challenge #1
 
 ### Prerequisites:
 
