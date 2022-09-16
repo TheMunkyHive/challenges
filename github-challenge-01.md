@@ -55,7 +55,7 @@
 **B**: Edit this textfile by using markdown and tick your completed boxes, add notes and code aswell:<br />
 - [ ] Your note:<br />
 
-**C**: Stage this file and add it to your git repository:<br />
+**C**: Stage this file and add it to your local git repository:<br />
   - [ ] Your note:<br />
 
 ### 4. Working remote with github
