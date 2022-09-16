@@ -62,7 +62,10 @@
 
 **A**: Upload your edited and saved file to your remote github repository:<br />
 
-** Please describe this process in detail and mention any difficulties you encountered**
+**Please describe this process in detail and mention any difficulties you encountered**
+  - [ ] Your note:<br />
+
+**B**: Find a way to merge your edited file into my repository with githubs own tools:<br />
   - [ ] Your note:<br />
 
 ---
